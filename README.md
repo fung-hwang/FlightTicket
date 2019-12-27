@@ -3,7 +3,7 @@
 ### 项目源：https://github.com/Shuai-Xie/flight-ticket-booksystem
 
 可以说这个小项目基本完全是复制的  
-（一切权利属于原作者）
+（一切权利属于原作者）  
 只改动了一些细节部分  
 可以在自己的环境上完全跑通  
 直接拿sln载入就能跑  
