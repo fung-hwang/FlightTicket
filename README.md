@@ -25,5 +25,5 @@ booksystem/admin
 
 ### 环境  
 **Web框架：Django 1.11**  
-**数据库：sqlite3**  
+**数据库：SQLite3**  
 **IDE：VS2017**  
